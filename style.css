@@ -1,0 +1,46 @@
+body
+{
+font-family: 'Special Elite', cursive;
+background-color: #AFB4FF;
+
+}
+
+#note
+{
+    font-family: 'Square Peg', cursive;
+    font-size: 35px;
+color:#80558C;
+}
+
+.header_div
+{
+background-color: #CBA0AE;
+}
+
+.header_div p
+{
+letter-spacing: 2px;
+font-size: 18px;
+font-weight: bold;
+}
+.main_div button
+{
+background-color:#E4D192;
+margin-top:30px;
+width:130px;
+font-weight: bolder;
+letter-spacing: 3px;
+font-size: 22px;
+}
+
+.copy_right_footer
+{
+position:fixed;
+bottom:0;
+width:100%;
+background-color: mistyrose;
+text-align: center;
+line-height: 3;
+font-size: 20px;
+text-shadow: 5px 5px 5px rgb(151,149,149);
+}
